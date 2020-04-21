@@ -25,6 +25,10 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 
 ### Cluster Annotation
 
+### Visualization
+
+* [UMAP (Paper)](https://www.nature.com/articles/nbt.4314)
+
 ### Dataset Integration
 
 * [Seurat multi-CCA (Paper)](https://www.nature.com/articles/nbt.4096)
