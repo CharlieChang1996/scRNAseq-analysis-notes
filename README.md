@@ -5,7 +5,7 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 
 ## Tutorials
 
-## Notes and Thoughts on
+## Notes and Thoughts on ...
 
 ### QC
 
