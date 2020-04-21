@@ -20,6 +20,8 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 * [Avoiding common pitfalls when clustering biological data](https://stke.sciencemag.org/content/9/432/re6)
 * [How to cluster in High Dimensions](https://towardsdatascience.com/how-to-cluster-in-high-dimensions-4ef693bacc6)
 * [Challenges in unsupervised clustering of single-cell RNA-seq data](https://www.nature.com/articles/s41576-018-0088-9)
+* [Comparison of Clustering Tools in R for Medium-Sized 10x Genomics Single-Cell RNA-sequencing Data](https://f1000research.com/articles/7-1297)
+* [A systematic performance evaluation of clustering methods for single-cell RNA-seq data](https://f1000research.com/articles/7-1141)
 
 ### Cluster Annotation
 
