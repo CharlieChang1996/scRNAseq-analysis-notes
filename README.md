@@ -34,3 +34,7 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 * [Seurat multi-CCA (Paper)](https://www.nature.com/articles/nbt.4096)
 * [MNN correct (Paper)](https://www.nature.com/articles/nbt.4091)
 * [Harmony (Paper)](https://www.nature.com/articles/s41592-019-0619-0)
+
+### Challenges
+
+* [Computational and analytical challenges in single-cell transcriptomics](https://www.nature.com/articles/nrg3833)
