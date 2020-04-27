@@ -3,6 +3,9 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 
 ## Papers and Tools
 
+* [Integrated analyses of single-cell atlases: cell type-specific expression of mediators of SARS-CoV-2 viral entry ](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v2)
+* [SARS-CoV-2 entry factors in single-cell RNA-sequencing data from multiple tissues from healthy human donors](https://www.nature.com/articles/s41591-020-0868-6)
+
 ## Tutorials
 
 ## Notes and Thoughts on ...
