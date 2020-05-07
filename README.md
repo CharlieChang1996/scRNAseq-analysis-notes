@@ -8,6 +8,8 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 
 ## Tutorials
 
+* [Seurat (Overview)](https://satijalab.org/seurat/vignettes.html)
+
 ## Notes and Thoughts on ...
 
 ### QC
