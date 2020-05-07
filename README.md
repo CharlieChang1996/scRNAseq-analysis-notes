@@ -37,6 +37,10 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 * [Seurat multi-CCA (Paper)](https://www.nature.com/articles/nbt.4096)
 * [MNN correct (Paper)](https://www.nature.com/articles/nbt.4091)
 * [Harmony (Paper)](https://www.nature.com/articles/s41592-019-0619-0)
+* [LIGER (Paper)](https://www.cell.com/cell/fulltext/S0092-8674%2819%2930504-5)
+* [LIGER (GitHub)](https://github.com/MacoskoLab/liger)
+* [conos (Paper)](https://www.nature.com/articles/s41592-019-0466-z)
+* [conos (GitHub)](https://github.com/hms-dbmi/conos)
 
 ### Challenges
 
