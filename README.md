@@ -9,6 +9,7 @@ Selection of papers, tools, tutorials and notes for scRNAseq analyses in R from 
 ## Tutorials
 
 * [Seurat (Overview)](https://satijalab.org/seurat/vignettes.html)
+* [Seurat (Installation)](https://github.com/CharlieChang1996/scRNAseq-analysis-notes/blob/master/Installing%20Seurat.txt)
 * [CompBio Class (Caltech)](https://github.com/ThomsonMatt/CompBioClass)
 
 ## Notes and Thoughts on ...
