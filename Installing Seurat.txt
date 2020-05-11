@@ -1,0 +1,9 @@
+#Installing Latest version of Seurat 3.0 on Bio4 server
+#Need to install multtest first
+install.packages('BiocManager')
+BiocManager::install('multtest')
+#Seurat requires ROCR package to be installed first, current R version on the server is outdated, install from CRAN not available
+#Download tar.gz file of old version of ROCR(1.0.7) from https://cran.r-project.org/src/contrib/Archive/ROCR/
+install.packages("~/ROCR_1.0-7.tar.gz", repos = NULL, type = "source")
+install.packages('Seurat')
+library(Seurat)
